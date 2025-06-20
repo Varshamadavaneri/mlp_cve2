@@ -3,4 +3,6 @@ scikit-learn
 joblib
 pymongo
 requests
+openai==0.28
+
 
